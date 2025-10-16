@@ -13,5 +13,5 @@ git clone https://github.com/DanielDECS/JogoCobrinha.git
 ```
 
 ## Visualização do Jogo
-![Jogo da Cobrinha](https://raw.githubusercontent.com/DanielDECS/JogoCobrinha/main/snakeGame.png)
+![Jogo da Cobrinha](./snakeGame.PNG)
 
