@@ -15,6 +15,7 @@ Recriação do clássico jogo da cobrinha utilizando HTML, CSS e JavaScript, des
 ```bash
 git clone https://github.com/DanielDECS/JogoCobrinha.git
 
-## Vizualização do jogo
+## Visualização do Jogo
 
-![Jogo da Cobrinha](https://github.com/DanielDECS/JogoCobrinha/raw/main/snakeGame.PNG)
+![Jogo da Cobrinha](https://raw.githubusercontent.com/DanielDECS/JogoCobrinha/main/snakeGame.PNG)
+
