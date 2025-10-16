@@ -1,8 +1,16 @@
-Criando um jogo no estilo Space Shooter
+# Jogo Space Shooter
 
-### Os requisitos são:
+Recriação do clássico jogo de tiro espacial, inspirado em títulos como Galaga e Space Invaders, utilizando HTML, CSS e JavaScript.
 
-* [HTML básico](https://www.w3schools.com/html/)
-* [CSS básico](https://developer.mozilla.org/pt-BR/docs/Web/CSS)
-* [Javascript básico](https://developer.mozilla.org/pt-BR/docs/Web/JavaScript)
+## Tecnologias Utilizadas
 
+- HTML
+- CSS
+- JavaScript
+
+## Como Executar
+
+1. Clone o repositório:
+
+   ```bash
+   git clone https://github.com/DanielDECS/JogoSpaceShooter.git
