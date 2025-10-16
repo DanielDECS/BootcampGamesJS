@@ -1,9 +1,16 @@
+# Jogo da Memória – Super Mario
 
-Jogo da memória com a temática de Super Mario! 
+Recriação do clássico jogo da memória com a temática de Super Mario, desenvolvido durante o bootcamp JavaScript Game Developer da Digital Innovation One.
 
-### Os requisitos são:
+## Tecnologias Utilizadas
 
-* [HTML básico](https://www.w3schools.com/html/)
-* [CSS básico](https://developer.mozilla.org/pt-BR/docs/Web/CSS)
-* [Javascript básico](https://developer.mozilla.org/pt-BR/docs/Web/JavaScript)
- 
+- HTML
+- CSS
+- JavaScript
+
+## Como Executar
+
+1. Clone o repositório:
+
+   ```bash
+   git clone https://github.com/DanielDECS/JogoMemoria.git
